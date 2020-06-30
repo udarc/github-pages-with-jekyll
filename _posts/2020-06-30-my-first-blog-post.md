@@ -1,2 +1,2 @@
-title: Enter your post titile
-date: 2020-06-30
+title: "Enter your post titile"
+date: 2019-06-30
